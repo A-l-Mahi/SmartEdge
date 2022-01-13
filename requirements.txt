@@ -23,7 +23,7 @@ numpy==1.18.1
 opencv-contrib-python==4.2.0.32
 opencv-contrib-python-headless==4.2.0.32
 opencv-python==4.2.0.32
-Pillow==7.0.0
+Pillow==9.0.0
 pip3-multiple-versions==0.2.2
 psycopg2==2.8.5
 pyglet==1.5.5
