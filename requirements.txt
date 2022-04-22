@@ -28,7 +28,7 @@ pip3-multiple-versions==0.2.2
 psycopg2==2.8.5
 pyglet==1.5.5
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.8.1
 pytz==2019.3
 pyzbar==0.1.8
