@@ -19,7 +19,7 @@ importlib-metadata==1.6.0
 kiwisolver==1.2.0
 kombu==4.6.8
 matplotlib==3.2.1
-numpy==1.18.1
+numpy==1.22.0
 opencv-contrib-python==4.2.0.32
 opencv-contrib-python-headless==4.2.0.32
 opencv-python==4.2.0.32
